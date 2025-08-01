@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Piyush-711.github.io/reactcicd",
   "name": "reactcicd",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Piyush-711.github.io/reactcicd",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
